@@ -1,16 +1,36 @@
-# React + Vite
+# Smart IT Help Desk Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Smart IT Help Desk Management System is a web-based IT support solution developed to streamline IT operations through ticket management, issue tracking, and user-friendly dashboards.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- User login system
+- Raise and manage support tickets
+- Ticket status tracking
+- Admin dashboard
+- Knowledge base
+- Reports and analytics
+- User-friendly interface
 
-## React Compiler
+## Technology Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Frontend:
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
 
-## Expanding the Oxlint configuration
+Backend:
+- Node.js
+- Express.js
+- MongoDB
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Project Purpose
+
+The system helps organizations manage IT support requests efficiently by providing a centralized platform for submitting, tracking, and resolving technical issues.
+
+## Developed By
+
+Shivani Patel  
+B.Tech Computer Science & Engineering
