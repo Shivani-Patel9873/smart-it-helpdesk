@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 
-import Sidebar from "./components/Sidebar";
-import Navbar from "./components/Navbar";
+import Sidebar from "./components/sidebar";
+import Navbar from "./components/navbar";
 import ProtectedRoute from "./components/ProtectedRoute";
 
 
